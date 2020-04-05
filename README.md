@@ -1,0 +1,2 @@
+# Project_Option_Pricing
+In this project, we seeks to apply basic Black-Scholes formula to stock data on Yahoo to price stock options. The final goal of pricing stock options is to explore arbitrage opportunity in the market when volatility is abnormally high. For volatility, we will try to model through both GARCH models and Heston's Stochastic Volatility models. The stock and option data will mainly be acquired using pandas-datareader package.
